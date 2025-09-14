@@ -13,6 +13,12 @@ namespace MauiAppHotel
                 {
                     fonts.AddFont("OpenSans-Regular.ttf", "OpenSansRegular");
                     fonts.AddFont("OpenSans-Semibold.ttf", "OpenSansSemibold");
+                    fonts.AddFont("TASAOrbiter-Bold.ttf", "TASAOrbiterBold");
+                    fonts.AddFont("TASAOrbiter-ExtraBold.ttf", "TASAOrbiterExtraBold");
+                    fonts.AddFont("TASAOrbiter-Medium.ttf", "TASAOrbiterMedium");
+                    fonts.AddFont("TASAOrbiter-Regular.ttf", "TASAOrbiterRegular");
+                    fonts.AddFont("TASAOrbiter-SemiBold.ttf", "TASAOrbiterSemiBold");
+
                 });
 
 #if DEBUG
