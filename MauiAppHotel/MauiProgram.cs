@@ -18,6 +18,7 @@ namespace MauiAppHotel
                     fonts.AddFont("TASAOrbiter-Medium.ttf", "TASAOrbiterMedium");
                     fonts.AddFont("TASAOrbiter-Regular.ttf", "TASAOrbiterRegular");
                     fonts.AddFont("TASAOrbiter-SemiBold.ttf", "TASAOrbiterSemiBold");
+                    fonts.AddFont("Micro5-Regular.ttf", "Micro5-Regular");
 
                 });
 
